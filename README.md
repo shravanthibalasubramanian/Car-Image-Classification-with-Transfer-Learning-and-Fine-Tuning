@@ -58,20 +58,20 @@ Each model was evaluated using:
 ## Repository Structure
 ```
 DeepLearning-ImageClassification/
-├── notebooks/                 #Jupyter notebooks for TL and FT of each model
+├── notebooks/                 
 │   ├── Model1_TL.ipynb
 │   ├── Model1_FT.ipynb
 │   ├── Model2_TL.ipynb
 │   ├── Model2_FT.ipynb
 │   ├── Model3_TL.ipynb
 │   └── Model3_FT.ipynb
-├── results/                   #Confusion matrices, metrics CSV, plots
+├── results/                  
 │   ├── confusion_matrix_resnet.png
 │   ├── confusion_matrix_inception.png
 │   ├── confusion_matrix_densenet.png
 │   └── metrics_summary.csv
-├── README.md                  #Project documentation
-├── requirements.txt           #Dependencies
+├── README.md                
+├── requirements.txt        
 └── .gitignore
 ```
 ---
