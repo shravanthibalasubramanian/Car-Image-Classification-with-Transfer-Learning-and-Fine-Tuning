@@ -1,0 +1,17 @@
+#Core
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+
+#DL
+tensorflow==2.13.0
+keras
+opencv-python
+Pillow
+
+#Notebook
+jupyter
+notebook
+gdown

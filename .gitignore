@@ -1,0 +1,30 @@
+#python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.venv
+env/
+venv/
+ENV/
+
+#jupyter notebook
+.ipynb_checkpoints/
+
+#Mac OS
+.DS_Store
+
+#Windows
+Thumbs.db
+
+#Dataset/large files
+data/
+*.h5
+*.hdf5
+*.ckpt
+*.pt
+*.pth
+
+#Logs
+*.log

@@ -1,0 +1,7 @@
+Model,Training_Type,Accuracy,Precision,Recall,F1-Score
+ResNet50V2,Transfer Learning,0.88,0.88,0.86,0.87
+ResNet50V2,Fine Tuning,0.93,0.92,0.93,0.92
+InceptionV3,Transfer Learning,0.86,0.84,0.82,0.83
+InceptionV3,Fine Tuning,0.95,0.95,0.94,0.95
+DenseNet121,Transfer Learning,0.89,0.89,0.88,0.88
+DenseNet121,Fine Tuning,0.98,0.98,0.98,0.98
