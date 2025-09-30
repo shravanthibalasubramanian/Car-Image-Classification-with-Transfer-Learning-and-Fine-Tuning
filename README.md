@@ -79,8 +79,8 @@ DeepLearning-ImageClassification/
 ## Installation & Setup
 1. Clone the repository:
 
-git clone https://github.com/yourusername/DeepLearning-ImageClassification.git
-cd DeepLearning-ImageClassification
+git clone https://github.com/shravanthibalasubramanian/Car-Image-Classification-with-Transfer-Learning-and-Fine-Tuning.git
+cd Car-Image-Classification-with-Transfer-Learning-and-Fine-Tuning
 
 ## Install dependencies:
 pip install -r requirements.txt
