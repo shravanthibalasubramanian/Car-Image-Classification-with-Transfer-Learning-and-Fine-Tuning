@@ -78,12 +78,14 @@ DeepLearning-ImageClassification/
 
 ## Installation & Setup
 1. Clone the repository:
-
+```
 git clone https://github.com/shravanthibalasubramanian/Car-Image-Classification-with-Transfer-Learning-and-Fine-Tuning.git
 cd Car-Image-Classification-with-Transfer-Learning-and-Fine-Tuning
-
+```
 ## Install dependencies:
+```
 pip install -r requirements.txt
+```
 Open any notebook in notebooks/ using Jupyter Notebook or Google Colab.
 Run all cells to train or evaluate models.
 
